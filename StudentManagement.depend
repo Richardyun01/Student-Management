@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1696330791 source:d:\school homework\2-2\studentmanagement\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1696334706 d:\school homework\2-2\studentmanagement\student.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1696334677 source:d:\school homework\2-2\studentmanagement\student.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"student.h"
+
+1696764450 source:d:\school homework\2-2\20202865_소프트웨어학부_윤수용_객체지향_project1\prob2\studentmanagement\student.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<sstream>
+	"student.h"
+
+1696652268 d:\school homework\2-2\20202865_소프트웨어학부_윤수용_객체지향_project1\prob2\studentmanagement\student.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1696764269 source:d:\school homework\2-2\20202865_소프트웨어학부_윤수용_객체지향_project1\prob2\studentmanagement\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+

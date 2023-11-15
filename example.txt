@@ -1,0 +1,6 @@
+James Wilson    2024007890 Aerospace Engineering     2004 5432109876  
+Sarah Miller    2021006543 Biomedical Engineering    2001 6543210987  
+David Brown     2025008765 Chemical Engineering      2005 7654321098  
+Bob Williams    2024004321 Civil Engineering         2004 1111111111  
+John Doe        2021001234 Computer Science          2001 1234567890  
+Alice Johnson   2023009876 Electrical Engineering    2003 9876543210  
